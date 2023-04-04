@@ -1,18 +1,11 @@
-# Steam Achievement Manager
+Adminitrador de logros de steam
+El código se pone a disposición de los interesados para que hagan lo que quieran con él. Codigo abierto
 
-This is the code for SAM, originally released in 2008, last major release in 2011, and last updated in 2013 (a hotfix).
+Hay algunos cambios en el código desde la última versión de código cerrado:
+- Mantenimiento general del código para modernizarlo.
+- Los iconos han sido reemplazados por los del conjunto de iconos Fugue.
+- La versión ha sido aumentada a 7.0.x.x para indicar la versión de código abierto.
 
-The code is being made available so that those interested can do as they like with it.
+[Descargar la última versión] (https://github.com/gibbed/SteamAchievementManager/releases/latest).
 
-There are some changes to the code since the last closed-source release:
-- General code maintenance to bring it into a more modern state.
-- Icons have been replaced with ones from the Fugue Icons set.
-- Version has been bumped to 7.0.x.x to indicate the open-source release.
-
-[Download latest release](https://github.com/gibbed/SteamAchievementManager/releases/latest).
-
-[![Build status](https://ci.appveyor.com/api/projects/status/00vic6jliar6j0ol/branch/master?svg=true)](https://ci.appveyor.com/project/gibbed/steamachievementmanager/branch/master)
-
-## Attribution
-
-Most (if not all) icons are from the [Fugue Icons](http://p.yusukekamiyamane.com/) set.
+Puto el que lo lea xd
