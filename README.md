@@ -7,5 +7,3 @@ Hay algunos cambios en el código desde la última versión de código cerrado:
 - La versión ha sido aumentada a 7.0.x.x para indicar la versión de código abierto.
 
 [Descargar la última versión] (https://github.com/gibbed/SteamAchievementManager/releases/latest).
-
-Puto el que lo lea xd
